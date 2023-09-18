@@ -1,0 +1,14 @@
+{
+    "personas": [
+      {
+        "nombre": "Estuardo Monterroso",
+        "edad": 30,
+        "direccion": "Chiquimulilla, Santa Rosa"
+      },
+      {
+        "nombre": "Carmelo Mayen",
+        "edad": 33,
+        "direccion": "Barberena, Santa Rosa"
+      }
+    ]
+  }
